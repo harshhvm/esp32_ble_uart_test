@@ -7,8 +7,8 @@ Article http://iotbyhvm.ooo/arduino-esp32-support-on-windows-and-ubuntu/
 Pin Diagram
 
 Now Connect a LED bulb with PIN 25.
-+      ======> PIN 25
-–      ======> GND
+Positive +   ======> PIN 25
+Negative –   ======> GND
 
 Now Install BLE Scanner Android App (Link given above) and connect with ESP32 UART Test and click on RX UUID.
 
